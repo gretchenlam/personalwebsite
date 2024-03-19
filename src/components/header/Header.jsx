@@ -40,7 +40,7 @@ const Header = () => {
                         <li className="nav__item">
                             <a href="#qualification" onClick={() => setActiveNav("#qualification")} 
                             className={activeNav === "#qualification" ? "nav__link active-link" : "nav__link"}>
-                                <HiOutlinePhotograph className="nav__icon"/>experience
+                                <HiOutlineClipboardList className="nav__icon"/>experience
                             </a>
                         </li>
                         <li className="nav__item">
