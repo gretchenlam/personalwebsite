@@ -14,7 +14,7 @@ export const projectsData = [
         id: 2,
         image: Project2,
         title: "facial frenzy",
-        githubUrl: "https://github.com/ucsb/CS190B-F23-expresso-cappillen"
+        githubUrl: "https://github.com/Johnsonchan105/Facial-Frenzy"
     },
     {
         id: 3,
