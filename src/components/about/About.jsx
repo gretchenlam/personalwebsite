@@ -17,7 +17,7 @@ const About = () => {
                     hi, my name is gretchen! i'm an aspiring software engineer and current third-year computer science student at uc santa barbara with an evergrowing
                     passion for all things tech! i absolutely love to explore the world of computer science and am ready for any opportunities that
                     present themselves throughout my academic career!
-                    but on a less academic level, i love doing my nails, exploring the greater santa barbara area, giving back to my community, and playing video games!
+                    but on a less academic level, i love doing my nails, exploring the greater santa barbara area, and playing video games!
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     download resume
