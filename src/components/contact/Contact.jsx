@@ -35,7 +35,7 @@ const Contact = () => {
                         </div>
                     </div>
 
-                    <div className="contact__content">
+                    {/* <div className="contact__content">
                         <h3 className="contact__title">call me</h3>
                         <div className="contact__info">
                             <div className="contact__card">
@@ -44,7 +44,7 @@ const Contact = () => {
                                 <span className="contact__card-data">(714) 467-8024</span>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
 
                 {/* Message Form on the Right */}
