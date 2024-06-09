@@ -1,6 +1,7 @@
 import Project1 from "../../assets/project1.webp";
 import Project2 from "../../assets/project2.webp";
 import Project3 from "../../assets/project3.webp";
+import Project4 from "../../assets/cooking.png";
 
 
 export const projectsData = [
@@ -21,5 +22,11 @@ export const projectsData = [
         image: Project3,
         title: "pokedex",
         githubUrl: "https://github.com/gretchenlam/pokedex"
+    },
+    {
+        id: 4,
+        image: Project4,
+        title: "unity vr cooking game",
+        githubUrl: "https://github.com/shashank790/cs190-ajsgs-cooking"
     },
 ];
