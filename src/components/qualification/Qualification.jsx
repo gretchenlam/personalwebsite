@@ -66,11 +66,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">incoming software engineer intern</h3>
+                            <h3 className="qualification__title">software engineer intern</h3>
                             <span className="qualification__subtitle">raytheon</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                june 2024
+                                june 2024 - sep 2024
                             </div>
                         </div>
                         <div>
