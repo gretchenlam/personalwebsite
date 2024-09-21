@@ -37,7 +37,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle">uc santa barbara</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                sep 2021 - june 2025
+                                sep 2021 - mar 2025
                             </div>
                         </div>
                         <div>
